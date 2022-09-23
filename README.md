@@ -1,6 +1,7 @@
 # backtrader_plus
 扫地僧backtrader闭环生态系统技术教程
 详情见： https://ke.qq.com/course/list/%E6%89%AB%E5%9C%B0%E5%83%A7%E9%87%8F%E5%8C%96
+我的backtrader知乎专栏：https://www.zhihu.com/column/c_1282044751274045440
 
 backtrader是强大的基于python的开源量化回测与实盘交易平台，为普及backtrader在中文世界的应用，我们编写了中文版”扫地僧backtrader技术教程系列“：
 
